@@ -4,4 +4,9 @@ steps:
     'sleep',
     '60s'
   ]
+- name: 'busybox'
+  args: [
+    'echo',
+    'hi'
+  ]
 queueTtl: '30s'
