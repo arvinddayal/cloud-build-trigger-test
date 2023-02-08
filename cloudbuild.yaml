@@ -4,3 +4,4 @@ steps:
     'echo',
     'staging trigger retry again again'
   ]
+queueTtl: 60s
