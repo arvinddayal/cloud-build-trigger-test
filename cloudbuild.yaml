@@ -2,6 +2,6 @@ steps:
 - name: 'busybox'
   args: [
     'echo',
-    'staging trigger retry again again'
+    'test trigger fix'
   ]
 queueTtl: 60s
