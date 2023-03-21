@@ -2,6 +2,5 @@ steps:
 - name: 'busybox'
   args: [
     'echo',
-    'test trigger fix'
+    'test trigger logs'
   ]
-queueTtl: 60s
