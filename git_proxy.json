@@ -16,8 +16,8 @@
   "steps": [
     {
       "args": [
-        "sleep",
-        "1"
+        "find",
+        "."
       ],
       "name": "busybox"
     }
