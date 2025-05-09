@@ -4,3 +4,5 @@ steps:
     'echo',
     'test trigger logs'
   ]
+options:
+  workerPool: projects/argo-local-arvinddayal/locations/us-west1/workerPools/psc-staging-pool
