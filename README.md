@@ -1,2 +1,2 @@
 # cloud-build-trigger-test
-Update new 1
+Update new 2

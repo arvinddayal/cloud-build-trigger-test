@@ -2,7 +2,7 @@ steps:
 - name: 'busybox'
   args: [
     'echo',
-    'test trigger logs'
+    'test trigger logs 2'
   ]
 options:
   workerPool: projects/argo-local-arvinddayal/locations/us-west1/workerPools/psc-staging-pool
